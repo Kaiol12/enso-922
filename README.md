@@ -11,6 +11,7 @@ O projeto visa compreensão e facilitar o desenvolvimento de cálculos matemáti
 - Everton Rafael Silva Rocha 
 - Deivid Souza Silva
 
+# tumas 922
 
 # Orientador 
 
