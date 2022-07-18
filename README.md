@@ -17,3 +17,4 @@ O projeto visa compreensão e facilitar o desenvolvimento de cálculos matemáti
 
 Daniel Fireman
 
+ftytydty
