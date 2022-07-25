@@ -24,4 +24,4 @@ Visando a manutenção do caráter prático da disciplina teremos um software-al
 - Código fonte livre e aberto
 - Licença MIT (permissiva)
 - Usando o repositório online
-- Usando integração e entrega contínuas
+- Usando integração e entrega continua
