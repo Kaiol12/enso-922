@@ -4,7 +4,3 @@
 
 ## Além dos requisitos funcionais que serão levantados pelos grupos, devemos atender os seguintes requisitos não funcionais:
 
- - Código fonte livre e aberto
- - Licença MIT (permissiva)
- - Usando o repositório online
- - Usando integração e entrega contínuas
