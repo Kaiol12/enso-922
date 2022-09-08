@@ -6,6 +6,7 @@ public class App extends Jooby {
 
   {
 
+    get("/", ctx -> "Bem-vindos a api calculadora os comandos sao /soma /subtracao /multiplicacao /divisao");
     mvc(new Adicao());
   }
 
