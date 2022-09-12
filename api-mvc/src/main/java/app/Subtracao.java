@@ -7,7 +7,7 @@ public class Subtracao {
 
     @GET
     public double calcularSubtracao(@PathParam double op1, @PathParam double op2) {
-        double resultado = op1-op2
+        double resultado = op1-op2;
         return resultado;
     }
 }
