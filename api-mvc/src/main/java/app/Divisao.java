@@ -7,6 +7,6 @@ public class Divisao {
 
     @GET
     public double divi_resultado(@PathParam double op ,@PathParam double op2) {
-         return op/op2
+         return op/op2;
     }
 }
