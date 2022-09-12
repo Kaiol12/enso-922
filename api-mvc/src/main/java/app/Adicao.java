@@ -7,6 +7,6 @@ public class Adicao {
 
     @GET
     public double adicao_resultado(@PathParam double op ,@PathParam double op2) {
-         return op+op2;
+         return op+op2
     }
 }
