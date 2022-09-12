@@ -7,6 +7,6 @@ public class Multiplicacao {
 
     @GET
     public double multi_resultado(@PathParam double op ,@PathParam double op2) {
-         return op+op2
+         return op+op2;
     }
 }
