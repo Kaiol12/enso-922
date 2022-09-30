@@ -1,2 +1,5 @@
+app.Subtracao$Module
+app.Divisao$Module
+app.Adicao$Module
 app.Multiplicacao$Module
 
