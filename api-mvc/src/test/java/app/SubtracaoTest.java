@@ -31,12 +31,12 @@ public class SubtracaoTest {
     @Test
     public void Numeros_grandes() {
         double resultado = subtracao.calcularSubtracao(1000,368);
-        assertEquals(632 resultado);
+        assertEquals(632, resultado);
     }
 
     
 }
-}
+
 
 
     
