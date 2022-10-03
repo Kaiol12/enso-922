@@ -1,11 +1,8 @@
 package app;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
-import org.junit.jupiter.api.AfterAll;
-import org.junit.jupiter.api.AfterEach;
-import org.junit.jupiter.api.BeforeAll;
-import org.junit.jupiter.api.BeforeEach;
-import org.junit.jupiter.api.Test;
+import org.junit.jupiter.api.*;
+
 
 public class MultiplicandoTest {
     
@@ -31,7 +28,7 @@ public class MultiplicandoTest {
     @Test
     public void Numeros_grandes() {
         double resultado = multiplicacao.multi_resultado(2000,85);
-        assertEquals(170000, resultado)
+        assertEquals(170000, resultado);
     }
 
     
