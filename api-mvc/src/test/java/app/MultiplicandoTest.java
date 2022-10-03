@@ -31,7 +31,7 @@ public class MultiplicandoTest {
     @Test
     public void Numeros_grandes() {
         double resultado = multiplicacao.multi_resultado(1000,368);
-        assertEquals(368000, resultado);
+        assertEquals(368000, resultado)
     }
 
     
