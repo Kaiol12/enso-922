@@ -28,7 +28,7 @@ public class DivisaoTest {
     @Test
     public void Numeros_decima() {
         double resultado = divisao.divi_resultado(1000,0.5);
-        assertEquals(2000, resultado)
+        assertEquals(2000, resultado);
     }
 
     
